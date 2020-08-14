@@ -17,7 +17,9 @@ inside a non-convex polygon.
 [CLICK HERE FOR MORE INFORMATION](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/Heuristics_Report.pdf)
 
 ## Preview
+ ### PSO
 ![Project Preview PSO](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/PSO/pso.gif)
+ ### TABU
 ![Project Preview Tabu](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/TABU/Tabu.gif)
 
 ## Instructions
