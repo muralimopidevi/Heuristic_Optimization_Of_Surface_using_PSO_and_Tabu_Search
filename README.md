@@ -1,6 +1,7 @@
 ![PyPI - Python Version](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![PyPI - Python Version](https://img.shields.io/badge/requirements.txt-updated-yellow)
-# Convolutional Neural Networks
+
+# Heuristic Problem of Stochastic Optimization
 
 ## Purpose of Plan
 An architectural firm proposes the
@@ -13,11 +14,13 @@ build an approximation algorithm
 for finding the largest rectangle
 inside a non-convex polygon.
 
-## Preview
-![Project Preview](https://github.com/mopidevimu/Convolutional_Neural_Networks/blob/master/git_img/cat_dog.gif)
-![Project Preview](https://github.com/mopidevimu/Convolutional_Neural_Networks/blob/master/git_img/cat-vs-dog.jpg)
+[CLICK HERE FOR MORE INFORMATION](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/Heuristics_Report.pdf)
 
-## QickView
+## Preview
+![Project Preview PSO](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/PSO/pso.gif)
+![Project Preview Tabu](https://github.com/mopidevimu/Heuristic_Optimization_Of_Surface_using_PSO_and_Tabu_Search/blob/master/TABU/Tabu.gif)
+
+## Instructions
 
 ```python
 Instruction
