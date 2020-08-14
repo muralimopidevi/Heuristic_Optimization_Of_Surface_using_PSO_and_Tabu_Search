@@ -49,7 +49,7 @@ def draw(polyfig,rectfig):
 	# polygon figure
 	codes = [Path.MOVETO]
 	for i in range(len(polyfig)-2):
-	  codes.append(Path.LINETO)   
+	  codes.append(Path.LINETO)
 	codes.append(Path.CLOSEPOLY)
 	path = Path(polyfig, codes)
 	patch = patches.PathPatch(path, facecolor='orange', lw=2)
